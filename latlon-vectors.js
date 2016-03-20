@@ -6,8 +6,8 @@
 /* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  */
 
 'use strict';
-if (typeof module!='undefined' && module.exports) var Vector3d = require('./vector3d.js'); // ≡ import Vector3d from 'vector3d.js'
-if (typeof module!='undefined' && module.exports) var Dms = require('./dms.js');           // ≡ import Dms from 'dms.js'
+var Vector3d = require('./vector3d.js'); // ≡ import Vector3d from 'vector3d.js'
+var Dms = require('./dms.js');           // ≡ import Dms from 'dms.js'
 
 
 /**
